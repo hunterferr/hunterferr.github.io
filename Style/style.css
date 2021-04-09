@@ -2,6 +2,26 @@ table, th, td {
     border: 1px solid black;
     padding: 3px;
     border-spacing: 3px;
+    text-align: left;
+    vertical-align: top;
+}
+
+table {
+    width: 45%;
+    table-layout: fixed;
+}
+
+tr:nth-child(odd) {
+    background: cyan;
+}
+
+th {
+    background: yellow;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 p, h1, h2, li, th, td {
@@ -10,4 +30,10 @@ p, h1, h2, li, th, td {
 
 .haiku {
     font-style: italic;
+}
+
+div {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
