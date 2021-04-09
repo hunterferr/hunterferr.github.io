@@ -1,5 +1,5 @@
-table {
-    border: 1;
-    padding: 3;
-    border-spacing: 3;
+table, th, td {
+    border: 1px;
+    padding: 3px;
+    border-spacing: 3px;
 }
