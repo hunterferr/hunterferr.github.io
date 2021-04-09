@@ -5,3 +5,4 @@
 - Style Weekly Schedule
 - Striped Table Rows
 - Sticky Footer
+- Put a nav

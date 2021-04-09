@@ -1,3 +1,8 @@
+.topnav {
+    background-color: black;
+    overflow: hidden;
+}
+
 table, th, td {
     border: 1px solid black;
     padding: 3px;
