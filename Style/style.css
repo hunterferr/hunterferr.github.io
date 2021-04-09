@@ -1,5 +1,13 @@
 table, th, td {
-    border: 1px;
+    border: 1px solid black;
     padding: 3px;
     border-spacing: 3px;
+}
+
+p, h1, h2, li, th, td {
+    font-family: sans-serif;
+}
+
+.haiku {
+    font-style: italic;
 }
