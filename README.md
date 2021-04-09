@@ -4,3 +4,4 @@
 - Center the document
 - Style Weekly Schedule
 - Striped Table Rows
+- Sticky Footer
